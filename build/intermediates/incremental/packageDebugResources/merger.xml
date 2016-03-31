@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Users/caro/AndroidStudioProjects/android/YoukeApplication/BGASwipeItemLayout-library/src/main/res"/><source path="/Users/caro/AndroidStudioProjects/android/YoukeApplication/BGASwipeItemLayout-library/build/generated/res/rs/debug"/><source path="/Users/caro/AndroidStudioProjects/android/YoukeApplication/BGASwipeItemLayout-library/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/caro/AndroidStudioProjects/android/YoukeApplication/BGASwipeItemLayout-library/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/caro/AndroidStudioProjects/android/YoukeApplication/BGASwipeItemLayout-library/src/main/res"><file path="/Users/caro/AndroidStudioProjects/android/YoukeApplication/BGASwipeItemLayout-library/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="BGASwipeItemLayout">
+        <attr format="enum" name="bga_sil_swipeDirection">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+        <attr format="enum" name="bga_sil_bottomMode">
+            <enum name="pullOut" value="0"/>
+            <enum name="layDown" value="1"/>
+        </attr>
+        <attr format="dimension" name="bga_sil_springDistance"/>
+        <attr format="boolean" name="bga_sil_swipeAble"/>
+    </declare-styleable></file></source><source path="/Users/caro/AndroidStudioProjects/android/YoukeApplication/BGASwipeItemLayout-library/build/generated/res/rs/debug"/><source path="/Users/caro/AndroidStudioProjects/android/YoukeApplication/BGASwipeItemLayout-library/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/caro/AndroidStudioProjects/android/YoukeApplication/BGASwipeItemLayout-library/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="BGASwipeItemLayout"><attr format="enum" name="bga_sil_swipeDirection"><enum name="left" value="0"/><enum name="right" value="1"/></attr><attr format="enum" name="bga_sil_bottomMode"><enum name="pullOut" value="0"/><enum name="layDown" value="1"/></attr><attr format="dimension" name="bga_sil_springDistance"/><attr format="boolean" name="bga_sil_swipeAble"/></declare-styleable></configuration></mergedItems></merger>
